@@ -31,7 +31,7 @@ export function PageProduct() {
             <input type="text" placeholder="Digite seu CEP" />
             <button type="submit">ok</button>
           </form>
-          <a href="">Não sei meu CEP</a>
+          <a href="https://buscacepinter.correios.com.br" target="_blank" rel="noreferrer">Não sei meu CEP</a>
         </div>
       </div>
     </Container>
